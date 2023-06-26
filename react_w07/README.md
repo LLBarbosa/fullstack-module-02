@@ -5,17 +5,17 @@ Exercicios do curso de Desenvolvimento Fullstack Lab365/SENAI-SC
 ## Clonar o repositório: 
 
 ```bash
-  git clone https://github.com/LLBarbosa/fullsatack-module-02-react_w07.git
+  git clone https://github.com/LLBarbosa/fullstack-module-02/tree/main/react_w07
   cd react_w07
 ```
 ## Instalar as dependências:
 
 ```bash
-  npm installgit
+  npm install
 ```
 
 ## Rodar o projeto:
 
 ```bash
-  npm run dev
+  npm run devgit add
 ```
