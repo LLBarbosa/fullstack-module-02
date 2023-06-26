@@ -1,20 +1,20 @@
-# M2S07-exercicios
+# Módulo II - Semana 07
 
-Exercicios de 01 ao 06 da semana 7 do modulo 2 Frontend do curso de Fullstack Lab365
+Exercicios do curso de Desenvolvimento Fullstack Lab365/SENAI-SC
 
-## Para utilizar o projeto clone o repositorio com o comando: 
-
-```bash
-  git clone https://github.com/andreluizamorimdev/M2S07-exercicios.git
-  cd M2S07-exercicios
-```
-## Na pasta do projeto utilizar o comando abaixo para instalar as dependencias:
+## Clonar o repositório: 
 
 ```bash
-  npm install
+  git clone https://github.com/LLBarbosa/fullsatack-module-02-react_w07.git
+  cd react_w07
+```
+## Instalar as dependências:
+
+```bash
+  npm installgit
 ```
 
-## Após isso pode utilizar o comando abaixo para iniciar o projeto e começar a utilizar:
+## Rodar o projeto:
 
 ```bash
   npm run dev
