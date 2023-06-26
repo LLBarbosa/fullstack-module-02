@@ -17,5 +17,5 @@ Exercicios do curso de Desenvolvimento Fullstack Lab365/SENAI-SC
 ## Rodar o projeto:
 
 ```bash
-  npm run devgit add
+  npm run dev
 ```
