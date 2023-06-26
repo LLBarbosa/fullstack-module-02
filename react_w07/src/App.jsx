@@ -1,18 +1,17 @@
-import { useState } from 'react'
 import './App.css'
+import Form from './components/Form/Form.jsx'
+import Header from './components/Header/Header.jsx'
+import UsersCard from './components/UsersCard/UsersCard'
+import { FormProvider } from './contexts/FormContext/FormContext'
 
-function App() {
-  const [count, setCount] = useState(0)
-
+export default function App() {
   return (
-    <>
-      <div className='App'>
-
-        </div>
-       
-    </>
-    
+    <FormProvider>
+        <Header/>
+        <Form/>
+        <UsersCard/>
+    </FormProvider>
   )
 }
 
-export default App
+
